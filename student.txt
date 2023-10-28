@@ -1,0 +1,5 @@
+Student name: Sukharev Ihor
+Student number: 713469
+Student class: IT1B
+GitHub Repository: https://github.com/Sukharev-ukr/Project
+GitHub Pages URL: https://github.com/Sukharev-ukr
