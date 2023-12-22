@@ -58,7 +58,7 @@ h2, h3 {
     padding: 0 15px;
 }
 
-.nav-link.active {
+.nav-link:active {
     text-decoration: underline;
     color: rgb(59, 59, 59);
 }
@@ -503,4 +503,8 @@ tr:nth-child(even) {
 
 .parent > span {
   color: #000000;
+}
+
+.fieldset {
+  display: none;
 }
